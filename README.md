@@ -1,6 +1,6 @@
-# Trader Joe Bridge Example
+# ETCswap LayerZero OFTv1 Bridge
 
-This is an example implementation of the Trader Joe Bridge using the @layerzerolabs/x-trader-joe-bridge package.
+This is an implementation of the ETCswap Bridge using the @layerzerolabs/x-trader-joe-bridge package.
 
 ## Required Configuration
 
